@@ -1,5 +1,5 @@
 <h1 align="center">Salgado, Leonardo Salgado 😎</h1>
-<h3 align="center">Estudante 4º Ano de Informática do Instituto Federal do Paraná</h3>
+<h3 align="center">Estudante 4º Ano de Informática do Instituto Federal do Paraná <br>E programador</h3>
 
 - 📫 Para me contatar **leonardo.fsalgado04@gmail.com**
 
