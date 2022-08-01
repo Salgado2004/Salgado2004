@@ -16,9 +16,9 @@
 </p>
 <h3 align="left"> I can speak:</h3>
 <p align="left">
-<img src="languages/pt-br.png" alt="português" title="português" height="30" width="40" />
-<img src="languages/es.png" alt="español" title="español" height="30" width="40" />
-<img src="languages/en-us.jpg" alt="english" title="english" height="30" width="40" />
+<img src="languages/pt-br.png" alt="português" title="Português" height="30" width="40" />
+<img src="languages/es.png" alt="español" title="Español" height="30" width="40" />
+<img src="languages/en-us.jpg" alt="english" title="English" height="30" width="40" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
