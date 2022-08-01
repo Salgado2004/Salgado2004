@@ -14,7 +14,7 @@
 <a href="https://linkedin.com/in/leonardo-felipe-salgado-394312234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leonardo felipe salgado" height="30" width="40" /></a>
 <a href="https://instagram.com/leonardofelipesalgado" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="leonardofelipesalgado" height="30" width="40" /></a>
 </p>
-<h3 I can speak:</h3>
+<h3 align="left"> I can speak:</h3>
 <p align="left">
 <img src="languages/pt-br.png" alt="português" height="30" width="40" />
 <img src="languages/es.png" alt="español" height="30" width="40" />
