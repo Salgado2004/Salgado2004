@@ -3,6 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salgado2004&label=Profile%20views&color=0e75b6&style=flat" alt="salgado2004" /> </p>
 
+- 🌱 Eu estou estudando **Python e Visão Computacional**
+
+- 👨‍💻 Meus projetos estão disponíveis em [https://github.com/Salgado2004?tab=repositories](https://github.com/Salgado2004?tab=repositories)
+
 - 📫 Para me contatar **leonardo.fsalgado04@gmail.com**
 
 - 📄 Para saber mais de mim [Leonardo Felipe Salgado](https://www.linkedin.com/in/leonardo-felipe-salgado-394312234?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2FCJ414PWQEupkRlQvWYlWA%3D%3D)
