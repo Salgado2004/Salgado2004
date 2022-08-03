@@ -7,7 +7,7 @@
 
 - 📄 Para saber mais de mim [Leonardo Felipe Salgado](https://www.linkedin.com/in/leonardo-felipe-salgado-394312234?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2FCJ414PWQEupkRlQvWYlWA%3D%3D)
 
-- ⚡ Fun fact **Eu também dou aulas de voleibol na escola 😅🏐**
+- ⚡ Fun fact **Eu também trabalho com modelagem e animação 3D 😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
