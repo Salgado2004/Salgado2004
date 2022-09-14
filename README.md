@@ -32,3 +32,4 @@
 
 
 <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salgado2004&layout=compact&langs_count=7&theme=light"/>
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=Salgado2004&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
