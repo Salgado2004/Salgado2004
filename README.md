@@ -31,3 +31,4 @@
 <a href="https://www.netacad.com/pt-br/courses/packet-tracer" target="_blank" rel="noreferrer"> <img src="languages/Cisco-Packet-Tracer.png" alt="Cisco Packet Tracer" width="40" height="40"/> </a></p>
 
 
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salgado2004&layout=compact&langs_count=7&theme=light"/>
