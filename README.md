@@ -31,6 +31,6 @@
 <a href="https://www.netacad.com/pt-br/courses/packet-tracer" target="_blank" rel="noreferrer"> <img src="languages/Cisco-Packet-Tracer.png" alt="Cisco Packet Tracer" width="45" height="45"/> </a></p>
 
 <p align="center">
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salgado2004&layout=compact&langs_count=6&theme=light"/>
-<img width="55%" src="https://github-readme-stats.vercel.app/api?username=Salgado2004&show_icons=true&theme=light&include_all_commits=true&count_private=true&hide=issues&custom_title=Statistics"/>
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salgado2004&layout=compact&langs_count=6&theme=dark"/>
+<img width="55%" src="https://github-readme-stats.vercel.app/api?username=Salgado2004&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide=issues&custom_title=Statistics"/>
 </p>
