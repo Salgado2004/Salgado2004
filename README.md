@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salgado2004&label=Profile%20views&color=0e75b6&style=flat" alt="salgado2004" /> </p>
 
-- 🌱 Eu estou estudando **Python e Visão Computacional**
+- 🌱 Eu estou estudando **Python, Visão Computacional e Reconstrução 3D**
 
 - 👨‍💻 Meus projetos estão disponíveis em [https://github.com/Salgado2004?tab=repositories](https://github.com/Salgado2004?tab=repositories)
 
