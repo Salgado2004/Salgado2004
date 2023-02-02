@@ -1,5 +1,5 @@
 <h1 align="center">Salgado, Leonardo Salgado 😎</h1>
-<h3 align="center">Estudante 4º Ano de Informática do Instituto Federal do Paraná <br>E programador</h3>
+<h3 align="center">Técnico em Informática e programador</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salgado2004&label=Profile%20views&color=29ab87&style=flat" alt="salgado2004" /> </p>
 
@@ -25,6 +25,12 @@
 <img src="languages/pt-br.png" alt="português" title="Português" height="35" width="45" />
 <img src="languages/es.png" alt="español" title="Español" height="35" width="45" />
 <img src="languages/en-us.jpg" alt="english" title="English" height="35" width="45" />
+</p>
+
+<h3 align="left">Education:</h3>
+<p align="left">
+  <img src="https://user-images.githubusercontent.com/53799801/216337107-e7905893-8d4e-4f96-8ac4-b184d6bc6525.png" alt="IFPR" title="IFPR" height="55"/><br>
+  2019-2022
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
