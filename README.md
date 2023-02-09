@@ -44,6 +44,8 @@
   <a href="https://https://www.w3schools.com/sass/default.php" target="_blank" rel="noreferrer"> <img src="languages/sass.png" alt="sass css" width="45" height="45"/> </a> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/> </a> 
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/> </a>
+  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/> </a> 
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="45" height="45"/> </a> 
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="45" height="45"/> </a> 
@@ -51,7 +53,8 @@
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="45" height="45"/> </a>
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="45" height="45"/> </a>
   <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="45" height="45"/> </a>
-  <a href="https://www.netacad.com/pt-br/courses/packet-tracer" target="_blank" rel="noreferrer"> <img src="languages/Cisco-Packet-Tracer.png" alt="Cisco Packet Tracer" width="45" height="45"/> </a></p>
+  <a href="https://www.netacad.com/pt-br/courses/packet-tracer" target="_blank" rel="noreferrer"> <img src="languages/Cisco-Packet-Tracer.png" alt="Cisco Packet Tracer" width="45" height="45"/> </a>
+</p>
 
 <p align="left">
 <img width="65%" src="https://github-readme-stats.vercel.app/api?username=Salgado2004&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide=issues&custom_title=Statistics"/>
