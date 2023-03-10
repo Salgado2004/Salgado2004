@@ -5,7 +5,7 @@
 
 - Atualmente estou trabalhando em **[Reconstrução 3D a partir de imagens e nuvens de pontos](https://github.com/VictorVechi/3D-Reconstruction-System)**
 
-- 🌱 Eu estou estudando **Visão Computacional e Reconstrução 3D**
+- 🌱 Eu estou estudando **Visão Computacional e Processamento de imagens**
 
 - 👨‍💻 Meus projetos estão disponíveis em [https://github.com/Salgado2004?tab=repositories](https://github.com/Salgado2004?tab=repositories)
 
