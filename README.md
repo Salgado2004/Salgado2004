@@ -1,5 +1,5 @@
-<h1 align="center">Salgado, Leonardo Salgado 😎</h1>
-<h3 align="center">Técnico em Informática e programador</h3>
+<img src="https://user-images.githubusercontent.com/53799801/225018638-966a842e-8145-4d7a-9516-72af3e87c80e.png">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salgado2004&label=Profile%20views&color=29ab87&style=flat" alt="salgado2004" /> </p>
 
