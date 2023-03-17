@@ -22,9 +22,9 @@
 </p>
 <h3 align="left"> I can speak:</h3>
 <p align="left">
-<img src="languages/pt-br.png" alt="português" title="Português" height="35" width="45" />
-<img src="languages/es.png" alt="español" title="Español" height="35" width="45" />
-<img src="languages/en-us.jpg" alt="english" title="English" height="35" width="45" />
+<img src="languages/pt-br.png" alt="português" title="Português" height="45" width="65" />
+<img src="languages/es.png" alt="español" title="Español" height="45" width="65" />
+<img src="languages/en-us.jpg" alt="english" title="English" height="45" width="65" />
 </p>
 
 <h3 align="left">Education:</h3>
