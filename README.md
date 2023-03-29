@@ -72,5 +72,5 @@
   </tr>
 </table>
 <p align="left">
-<img width="65%" src="https://github-readme-stats.vercel.app/api?username=Salgado2004&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide=issues&custom_title=Statistics"/>
+<img width="65%" src="https://github-readme-stats.vercel.app/api?username=Salgado2004&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=issues&custom_title=Statistics"/>
 </p>
