@@ -72,6 +72,6 @@
   </tr>
 </table>
 <p align="left">
-<img width="59%" src="https://github-readme-stats.vercel.app/api?username=Salgado2004&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=issues&custom_title=Statistics"/>
-<img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Salgado2004&theme=tokyonight&hide_progress=true&langs_count=8"/>
+<!--<img width="59%" src="https://github-readme-stats.vercel.app/api?username=Salgado2004&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=issues&custom_title=Statistics"/>
+<img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Salgado2004&theme=tokyonight&hide_progress=true&langs_count=8"/>-->
 </p>
