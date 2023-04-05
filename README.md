@@ -15,20 +15,20 @@
 
 - ⚡ Fun fact **Eu também trabalho com modelagem e animação 3D 😅**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h2 align="center">Connect with me:</h2>
+<p align="center">
 <a href="https://linkedin.com/in/leonardo-felipe-salgado-394312234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leonardo felipe salgado" height="35" width="45" /></a>
 <a href="https://instagram.com/leonardofelipesalgado" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="leonardofelipesalgado" height="35" width="45" /></a>
 </p>
-<h3 align="left"> I can speak:</h3>
-<p align="left">
+<h2 align="center"> I can speak:</h2>
+<p align="center">
 <img src="languages/pt-br.png" alt="português" title="Português" height="45" width="65" />
 <img src="languages/es.png" alt="español" title="Español" height="45" width="65" />
 <img src="languages/en-us.jpg" alt="english" title="English" height="45" width="65" />
 </p>
 
-<h3 align="left">Education:</h3>
-<table>
+<h2 align="center">Education:</h2>
+<table align="center">
   <tr>
     <th>Institution</th>
     <th>Degree</th>
@@ -44,8 +44,8 @@
   
 </table>
 
-<h3 align="left">Languages and Tools:</h3>
-<table>
+<h2 align="center">Languages and Tools:</h2>
+<table align="center">
   <tr>
     <td><a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="50" height="50"/> </a></td>
     <td><a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="50" height="50"/> </a></td>
