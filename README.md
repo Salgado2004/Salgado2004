@@ -37,7 +37,7 @@
   </tr>
   <tr>
     <td><img src="https://user-images.githubusercontent.com/53799801/216337107-e7905893-8d4e-4f96-8ac4-b184d6bc6525.png" alt="IFPR" title="IFPR" height="55"/><br></td>
-    <td>High School</td>
+    <td>High School/ Associate's degree</td>
     <td>2019</td>
     <td>2022</td>
   </tr>
