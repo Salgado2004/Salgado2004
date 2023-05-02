@@ -15,33 +15,31 @@
 
 - ⚡ Fun fact **Eu também trabalho com modelagem e animação 3D 😅**
 
-<h2 align="center">Connect with me:</h2>
-<p align="center">
-<a href="https://linkedin.com/in/leonardo-felipe-salgado-394312234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leonardo felipe salgado" height="35" width="45" /></a>
-<a href="https://instagram.com/leonardofelipesalgado" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="leonardofelipesalgado" height="35" width="45" /></a>
-</p>
-<h2 align="center"> I can speak:</h2>
-<p align="center">
-<img src="languages/pt-br.png" alt="português" title="Português" height="45" width="65" />
-<img src="languages/es.png" alt="español" title="Español" height="45" width="65" />
-<img src="languages/en-us.jpg" alt="english" title="English" height="45" width="65" />
-</p>
 
-<h2 align="center">Education:</h2>
+
+
+
+
 <table align="center">
   <tr>
-    <th>Institution</th>
-    <th>Degree</th>
-    <th>Start year</th>
-    <th>End year</th>
+    <td><h2 align="center">Connect with me:</h2></td>
+    <td><h2 align="center"> I can speak:</h2></td>
   </tr>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/53799801/216337107-e7905893-8d4e-4f96-8ac4-b184d6bc6525.png" alt="IFPR" title="IFPR" height="55"/><br></td>
-    <td>High School/ Associate's degree</td>
-    <td>2019</td>
-    <td>2022</td>
+    <td>
+    <p align="center">
+        <a href="https://linkedin.com/in/leonardo-felipe-salgado-394312234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leonardo felipe salgado" height="35" width="45" /></a>
+        <a href="https://instagram.com/leonardofelipesalgado" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="leonardofelipesalgado" height="35" width="45" /></a>
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img src="languages/pt-br.png" alt="português" title="Português" height="45" width="65" />
+        <img src="languages/es.png" alt="español" title="Español" height="45" width="65" />
+        <img src="languages/en-us.jpg" alt="english" title="English" height="45" width="65" />
+      </p>
+    </td>
   </tr>
-  
 </table>
 
 <h2 align="center">Languages and Tools:</h2>
