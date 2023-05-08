@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salgado2004&label=Profile%20views&color=6969ff&style=for-the-badge" alt="salgado2004" /> </p>
 
-- Atualmente estou trabalhando em **[Pool Shot Prediction](https://github.com/Salgado2004/Pool_Shot_Predictor_Contest)**
+<!--- Atualmente estou trabalhando em **[Pool Shot Prediction](https://github.com/Salgado2004/Pool_Shot_Predictor_Contest)**-->
 
 - 🌱 Eu estou estudando **Visão Computacional e Processamento de imagens**
 
