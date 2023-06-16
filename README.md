@@ -69,7 +69,7 @@
     <td><a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="50" height="50"/> </a></td>
   </tr>
 </table>
-<p align="left">
+<!--<p align="left">
 <img width="59%" src="https://github-readme-stats.vercel.app/api?username=Salgado2004&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=issues&custom_title=Statistics"/>
 <img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Salgado2004&theme=tokyonight&hide_progress=true&langs_count=8"/>
-</p>
+</p>-->
