@@ -25,7 +25,7 @@
     <p align="center">
         <a href="https://linkedin.com/in/leonardo-felipe-salgado-394312234" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leonardo felipe salgado" height="35" width="45" /></a>
         <a href="https://instagram.com/leonardofelipesalgado" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="leonardofelipesalgado" height="35" width="45" /></a>
-        <a href="https://discord.com/users/697092851980435579" target="_blank"> <img align="center" src="https://github.com/Salgado2004/Salgado2004/assets/53799801/a13e4e51-20b9-44af-a9ea-b8c8de587d69" alt="discord" height="35" width="45" /></a>
+        <a href="https://discord.com/users/697092851980435579" target="_blank"> <img align="center" src="./languages/discord-mark-blue.png" alt="discord" height="35" width="45" /></a>
     </p>
     </td>
     <td>
