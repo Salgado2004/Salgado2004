@@ -15,11 +15,6 @@
 
 - ⚡ Fun fact **Eu também trabalho com modelagem e animação 3D 😅**
 
-
-
-
-
-
 <table align="center">
   <tr>
     <td><h2 align="center">Connect with me:</h2></td>
@@ -28,9 +23,10 @@
   <tr>
     <td>
     <p align="center">
-        <a href="https://linkedin.com/in/leonardo-felipe-salgado-394312234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leonardo felipe salgado" height="35" width="45" /></a>
-        <a href="https://instagram.com/leonardofelipesalgado" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="leonardofelipesalgado" height="35" width="45" /></a>
-      </p>
+        <a href="https://linkedin.com/in/leonardo-felipe-salgado-394312234" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leonardo felipe salgado" height="35" width="45" /></a>
+        <a href="https://instagram.com/leonardofelipesalgado" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="leonardofelipesalgado" height="35" width="45" /></a>
+        <a href="https://discord.com/users/697092851980435579" target="_blank"> <img align="center" src="https://github.com/Salgado2004/Salgado2004/assets/53799801/a13e4e51-20b9-44af-a9ea-b8c8de587d69" alt="discord" height="35" width="45" /></a>
+    </p>
     </td>
     <td>
       <p align="center">
