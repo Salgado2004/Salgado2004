@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salgado2004&label=Profile%20views&color=6969ff&style=for-the-badge" alt="salgado2004" /> </p>
 
-<!--- Atualmente estou trabalhando em **[Pool Shot Prediction](https://github.com/Salgado2004/Pool_Shot_Predictor_Contest)**-->
+- Atualmente estou trabalhando como **Desenvolvedor Front-end Junior** na **[Visionnaire](https://www.visionnaire.com.br/)**
 
-- 🌱 Eu estou estudando **Visão Computacional e Processamento de imagens**
+- 🌱 Eu estou estudando **Cloud Computing**
 
 - 👨‍💻 Meus projetos estão disponíveis em [https://github.com/Salgado2004?tab=repositories](https://github.com/Salgado2004?tab=repositories)
 
