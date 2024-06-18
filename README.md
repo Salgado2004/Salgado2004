@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/53799801/225921523-50b04fb1-de56-4d6e-9c84-9b04b558e3ee.png">
+<img src="header.png">
 
 <p align="left"> 
         <img src="https://komarev.com/ghpvc/?username=salgado2004&label=Profile%20views&color=6969ff&style=for-the-badge" alt="salgado2004" /> 
