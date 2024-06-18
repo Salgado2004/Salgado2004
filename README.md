@@ -1,6 +1,17 @@
 <img src="https://user-images.githubusercontent.com/53799801/225921523-50b04fb1-de56-4d6e-9c84-9b04b558e3ee.png">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=salgado2004&label=Profile%20views&color=6969ff&style=for-the-badge" alt="salgado2004" /> </p>
+<p align="left"> 
+        <img src="https://komarev.com/ghpvc/?username=salgado2004&label=Profile%20views&color=6969ff&style=for-the-badge" alt="salgado2004" /> 
+        <a href="https://linkedin.com/in/leonardo-felipe-salgado-394312234" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+        <a href="https://instagram.com/leonardofelipesalgado" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="leonardofelipesalgado"/></a>
+<a href="https://discord.com/users/697092851980435579" target="_blank"> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="discord" /></a>
+</p>
+
+<p align="left">       
+        <img alt="Português" src="https://img.shields.io/badge/Portugu%C3%AAs-009b3a?style=for-the-badge">
+        <img alt="Español" src="https://img.shields.io/badge/Espa%C3%B1ol-c70318?style=for-the-badge">
+        <img alt="English" src="https://img.shields.io/badge/English-3c3c6c?style=for-the-badge">
+</p>
 
 - Atualmente estou trabalhando como **Desenvolvedor Front-end Junior** na **[Visionnaire](https://www.visionnaire.com.br/)**
 
@@ -19,17 +30,6 @@
 <img width="59%" src="https://github-readme-stats.vercel.app/api?username=Salgado2004&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=issues&custom_title=Statistics"/>
 <img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Salgado2004&theme=tokyonight&hide_progress=true&langs_count=8"/>
 </p>
-
-<h2 align=left">Connect with me:
-<a href="https://linkedin.com/in/leonardo-felipe-salgado-394312234" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leonardo felipe salgado" height="35" width="45" /></a>
-<a href="https://instagram.com/leonardofelipesalgado" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="leonardofelipesalgado" height="35" width="45" /></a>
-<a href="https://discord.com/users/697092851980435579" target="_blank"> <img align="center" src="./languages/discord-mark-blue.png" alt="discord" height="35" width="45" /></a></h2>
-
-<h2 align="left"> I can speak:       
-        <img src="languages/pt-br.png" alt="português" title="Português" height="45" width="65" />
-        <img src="languages/es.png" alt="español" title="Español" height="45" width="65" />
-        <img src="languages/en-us.jpg" alt="english" title="English" height="45" width="65" />
-</h2>
 
 <h2 align="left">Certifications: </h2>
 <p>
