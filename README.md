@@ -37,6 +37,7 @@
   <a href="https://learn.microsoft.com/api/credentials/share/pt-br/LeonardoFelipeSalgado-9348/9C0532419F5B8D95?sharingId=D086D9D18823ED2F"><img src="certifications/DP900-badge.png" height="90"/></a>
   <a href="https://learn.microsoft.com/api/credentials/share/pt-br/LeonardoFelipeSalgado-9348/D749299B2C75B6E5?sharingId=D086D9D18823ED2F"><img src="certifications/SC900-badge.png" height="90"/></a>
   <a href="https://learn.microsoft.com/api/credentials/share/pt-br/LeonardoFelipeSalgado-9348/59B23AA371CF84CA?sharingId=D086D9D18823ED2F"><img src="certifications/AI900-badge.png" height="90"/></a>
+  <a href="https://learn.microsoft.com/api/credentials/share/pt-br/LeonardoFelipeSalgado-9348/BB657823B318AE17?sharingId=D086D9D18823ED2F"><img src="certifications/AZ204-badge.png" height="90"/></a>
   <a href="https://www.credly.com/badges/0c6c8fa2-db7c-459b-b46a-0f9128699649/public_url"><img src="certifications/githubFoundations-badge.png" height="90"/></a>
 </p>
 
