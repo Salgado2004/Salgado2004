@@ -40,6 +40,7 @@
   <a href="https://learn.microsoft.com/api/credentials/share/pt-br/LeonardoFelipeSalgado-9348/BB657823B318AE17?sharingId=D086D9D18823ED2F"><img src="certifications/AZ204-badge.png" height="90"/></a>
   <a href="https://www.credly.com/badges/0c6c8fa2-db7c-459b-b46a-0f9128699649/public_url"><img src="certifications/githubFoundations-badge.png" height="90"/></a>
   <a href="https://www.credly.com/badges/4b497a3f-b69f-4e49-9154-dcdd654d6a8c/public_url"><img src="certifications/GHAS-badge.png" height="90"/></a>
+  <a href="https://www.credly.com/badges/2d628f4f-004b-490f-a7bc-63dc4c964c6e/public_url"><img src="certifications/CLF-C02-badge.png" height="90"/></a>
 </p>
 
 
