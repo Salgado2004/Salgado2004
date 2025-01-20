@@ -1,3 +1,5 @@
+> **Português** | [English](./languages/README_English.md) | [Español](./languages/README_Spanish)
+
 <img src="header.png">
 
 <p align="left"> 
@@ -7,17 +9,11 @@
 <a href="https://discord.com/users/697092851980435579" target="_blank"> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="discord" /></a>
 </p>
 
-<p align="left">       
-        <img alt="Português" src="https://img.shields.io/badge/Portugu%C3%AAs-009b3a?style=for-the-badge">
-        <img alt="Español" src="https://img.shields.io/badge/Espa%C3%B1ol-c70318?style=for-the-badge">
-        <img alt="English" src="https://img.shields.io/badge/English-3c3c6c?style=for-the-badge">
-</p>
-
 - Atualmente estou trabalhando como **Desenvolvedor Front-end Junior** na **[Visionnaire](https://www.visionnaire.com.br/)**
 
 - 🌱 Eu estou estudando **Cloud Computing**
 
-- 👨‍💻 Meus projetos estão disponíveis em [https://github.com/Salgado2004?tab=repositories](https://github.com/Salgado2004?tab=repositories)
+- 👨‍💻 Meus projetos estão disponíveis em [Repositories](https://github.com/Salgado2004?tab=repositories)
 
 - 📫 Para me contatar **leonardo.fsalgado04@gmail.com**
 
@@ -31,7 +27,7 @@
 <img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Salgado2004&theme=tokyonight&hide_progress=true&langs_count=8"/>
 </p>
 
-<h2 align="left">Certifications: </h2>
+<h2 align="left">Certificações: </h2>
 <p>
   <a href="https://learn.microsoft.com/api/credentials/share/pt-br/LeonardoFelipeSalgado-9348/5980314B113D89D7?sharingId=D086D9D18823ED2F"><img src="certifications/AZ900-badge.png" height="90"/></a>
   <a href="https://learn.microsoft.com/api/credentials/share/pt-br/LeonardoFelipeSalgado-9348/9C0532419F5B8D95?sharingId=D086D9D18823ED2F"><img src="certifications/DP900-badge.png" height="90"/></a>
@@ -44,5 +40,5 @@
 </p>
 
 
-<h2 align="left">Languages and Tools:</h2>
+<h2 align="left">Linguagens de programação e Ferramentas:</h2>
 <img src="https://skillicons.dev/icons?i=azure,github,git,redhat,docker,jenkins,blender,figma,java,spring,html,css,sass,js,ts,angular,php,py,flask,opencv,qt,mysql,c,arduino,bash,linux&perline=13" alt="My skills">
