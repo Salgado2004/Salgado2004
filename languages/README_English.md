@@ -1,4 +1,4 @@
-> [🇧🇷 Português](../README.md) | **🇬🇧 English** | [🇪🇦 Español](./README_Spanish)
+> [🇧🇷 Português](../README.md) | **🇬🇧 English** | [🇪🇦 Español](./README_Spanish.md)
 
 <img src="../header.png">
 

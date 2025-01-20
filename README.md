@@ -1,4 +1,4 @@
-> **🇧🇷 Português** | [🇬🇧 English](./languages/README_English.md) | [🇪🇦 Español](./languages/README_Spanish)
+> **🇧🇷 Português** | [🇬🇧 English](./languages/README_English.md) | [🇪🇦 Español](./languages/README_Spanish.md)
 
 <img src="header.png">
 
@@ -9,7 +9,7 @@
 <a href="https://discord.com/users/697092851980435579" target="_blank"> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="discord" /></a>
 </p>
 
-- Atualmente estou trabalhando como **Desenvolvedor Front-end Junior** na **[Visionnaire](https://www.visionnaire.com.br/)**
+- Atualmente estou trabalhando como **Desenvolvedor FullStack Junior** na **[Visionnaire](https://www.visionnaire.com.br/)**
 
 - 🌱 Eu estou estudando **Cloud Computing**
 
