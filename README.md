@@ -1,4 +1,4 @@
-> **Português** | [English](./languages/README_English.md) | [Español](./languages/README_Spanish)
+> **🇧🇷 Português** | [🇬🇧 English](./languages/README_English.md) | [🇪🇦 Español](./languages/README_Spanish)
 
 <img src="header.png">
 
