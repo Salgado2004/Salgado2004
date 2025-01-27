@@ -41,4 +41,4 @@
 
 
 <h2 align="left">Linguagens de programação e Ferramentas:</h2>
-<img src="https://skillicons.dev/icons?i=azure,github,git,redhat,docker,jenkins,blender,figma,java,spring,html,css,sass,js,ts,angular,php,py,flask,opencv,qt,mysql,c,arduino,bash,linux&perline=13" alt="My skills">
+<img src="https://skillicons.dev/icons?i=github,azure,aws,git,redhat,docker,jenkins,blender,figma,java,kotlin,spring,html,css,js,ts,angular,sass,php,py,flask,opencv,qt,mysql,c,arduino,bash,linux&perline=14" alt="My skills">
