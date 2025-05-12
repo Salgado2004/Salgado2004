@@ -1,6 +1,6 @@
 > [Versão em português 🇧🇷](../README.md) | **English version 🇬🇧** | [Versión en español 🇪🇦](README_Spanish.md)
 
-![Salgado, Leonardo Salgado. Systems Analyst and developer](../header.png)
+# ![Header: Salgado, Leonardo Salgado. Systems Analyst and developer](../header.png)
 
 <p align="left">
     <a href="https://linkedin.com/in/leonardo-felipe-salgado-394312234" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="my linkedin profile"></a>
