@@ -11,7 +11,7 @@
 ## Sobre mí
 
 - Actualmente trabajo como **Analista de Sistemas Junior** en **Banco Bradesco**
-- Estoy estudiando **Cloud Computing** 🌱
+- Estoy estudiando **Aspectos humanos en la ingeniería de software** 🌱
 - Mira [mi pestaña de repositorios](https://github.com/Salgado2004?tab=repositories) para ver mis proyectos 👨‍💻
 - Contáctame en el correo leonardo.fsalgado04@gmail.com 📫
 - Visita [mi perfil de LinkedIn](https://www.linkedin.com/in/leonardo-felipe-salgado-394312234) para saber más sobre mí 📄

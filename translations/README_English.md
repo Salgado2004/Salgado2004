@@ -1,6 +1,6 @@
 > [Versão em português 🇧🇷](../README.md) | **English version 🇬🇧** | [Versión en español 🇪🇦](README_Spanish.md)
 
-# ![Header: Salgado, Leonardo Salgado. Systems Analyst and developer](../header.png)
+# ![Header: Salgado, Leonardo Salgado. Sofware Engineer and developer](../header.png)
 
 <p align="left">
     <a href="https://linkedin.com/in/leonardo-felipe-salgado-394312234" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="my linkedin profile"></a>
@@ -10,8 +10,8 @@
 
 ## About me
 
-- I am currently working as a **Junior Systems Analyst** at **Banco Bradesco**
-- I am studying **Cloud Computing** 🌱
+- I am currently working as a **Junior Software Enginner** at **Banco Bradesco**
+- I am studying **Human Aspects in Software Engineering** 🌱
 - Check out [my repository tab](https://github.com/Salgado2004?tab=repositories) to see my projects 👨‍💻
 - Contact me at email leonardo.fsalgado04@gmail.com 📫
 - Visit [my LinkedIn profile](https://www.linkedin.com/in/leonardo-felipe-salgado-394312234) to learn more about me 📄
